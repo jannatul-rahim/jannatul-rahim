@@ -32,7 +32,7 @@ I'm a passionate Full Stack Developer from **Noakhali, Bangladesh**, currently w
   <a href="https://github.com/jannatul-rahim">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://abdurrahim7.netlify.app/">
+  <a href="https://jannatulrahim.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-17251F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:mohammedrahim516@gmail.com">
