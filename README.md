@@ -63,14 +63,51 @@ I'm a passionate Full Stack Developer from **Noakhali, Bangladesh**, currently w
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🏠 House & Roommate Platform
+🏠 House & Roommate Platform
+
 A full-stack platform for finding houses and roommates.
 
-[View Repository](https://github.com/jannatul-rahim/house-and-roommate-platform-full-stack)
+View Repository
 
-### 🚗 GearUp — Rental Platform
+🚗 GearUp — Rental Platform
+
 A modern rental platform built with Next.js and PostgreSQL.
 
-[View Repository](https://
+View Repository
+
+🌐 Personal Portfolio
+
+My personal portfolio showcasing my skills and projects.
+
+View Repository
+
+📚 Knowledge Share Server
+
+A backend project focused on server-side development.
+
+View Repository
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jannatul-rahim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-rahim&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jannatul-rahim&theme=tokyonight&hide_border=true" />
+</p>
+
+💭 Developer Mindset
+
+<p align="center">
+  <i>"Building today, improving every day."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊
+</p>
